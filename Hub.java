@@ -117,7 +117,7 @@ public class Hub extends JFrame
 				
 		
 		
-		for(int i=0; i<3;i++)
+		for(int i=0; i<3;i++)//THIS IS WHERE THE BUG IS (CURRENTLY CHANGED TO 3)
 		{
 			if(TempEachWeek[0][i].getTeamName()==UserTeam.getTeamName()|| TempEachWeek[1][i].getTeamName()==UserTeam.getTeamName())
 			{
