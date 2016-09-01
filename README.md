@@ -1,5 +1,5 @@
 # Soccer-Street-Manager
-My 10th Grade Final Project- A Game Simulator
+My 10th Grade Final Project- A Socccer Game Simulator
 
 ----BUGS----
 1) Scheduling Conflicts-> HUB.JAVA 
