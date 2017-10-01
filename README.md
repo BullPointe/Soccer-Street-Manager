@@ -1,5 +1,9 @@
 # Soccer-Street-Manager
-My 10th Grade Final Project- A Socccer Game Simulator
+My 10th Grade Final Project- A Soccer Manager Simulator.
+
+Manage a Soccer Team and play a entire 16 game season against other teams  :)
+
+
 
 ----BUGS----
 1) Scheduling Conflicts-> HUB.JAVA 
